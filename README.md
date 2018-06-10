@@ -12,9 +12,11 @@
 Never write another getter or equals method again.
 
 ## Installation
+```
   > git clone https://github.com/ripsamm004/task_jpm_stock.git
   > cd task_jpm_stock
   > mvn clean install
+```
 
 
 ## Run the application
