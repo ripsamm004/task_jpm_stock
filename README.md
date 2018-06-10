@@ -7,17 +7,15 @@
 * GIT
 
 ## Dependencies
-***Lombok** version 1.16.16.
+**Lombok** version 1.16.16.
   > [Project Lombok](https://projectlombok.org/) is a java library that automatically plugs into your editor and build tools, spicing up your java.
 Never write another getter or equals method again.
 
 ## Installation
-```
   > git clone https://github.com/ripsamm004/task_jpm_stock.git
   > cd task_jpm_stock
   > mvn clean install
 
-```
 
 ## Run the application
 ```
